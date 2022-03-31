@@ -6,14 +6,12 @@ Junior Backend(**PHP**) Developer
 
 
 ## Contact information:
-**Phone:** +38 068 4489766
-**E-mail:** ankavoloshina@gmail.com
-**Telegram:** @hannavoloshyna
+**Phone:** +375 (25) 7159806
+**E-mail:** mnastywav@gmail.com
+**Telegram:** @nastassia_mav
 *[LinkedIn]*(https://www.linkedin.com/in/nastassia-matusevich-6587421b6/)
 
-
-=====
-
+-----
 
 ## Skills and Proficiency:
 
@@ -25,9 +23,7 @@ Junior Backend(**PHP**) Developer
 + Git, GitHub
 + VS Code, IntelliJ IDEA
 
-
-=====
-
+------
 
 ### Code example:
 
@@ -63,7 +59,7 @@ function arrayDiff($a, $b) {
     + [Администратор сервиса Битрикс24 (коробочная версия)](https://dev.1c-bitrix.ru/certificates/learning.php?course=48)
 
 
-=====
+-----
 
 ### Languages:
 * Belarassian/Russian - Native
