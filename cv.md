@@ -1,15 +1,19 @@
 # MATUSEVICH NASTASSIA 
+
 ******
-Junior Backend(**PHP**) Developer
+## Junior Backend(PHP) Developer
+
 ******
+
+
 ![Photo](https://media-exp1.licdn.com/dms/image/C4E03AQFGZDi1Pjk6Ww/profile-displayphoto-shrink_800_800/0/1648740354208?e=1654128000&v=beta&t=rb0jIX93N8DO-3B0KTMhIx_oWl2lvn91v3kF2I0K2mw)
 
 
 ## Contact information:
-**Phone:** +375 (25) 7159806
-**E-mail:** mnastywav@gmail.com
-**Telegram:** @nastassia_mav
-*[LinkedIn]*(https://www.linkedin.com/in/nastassia-matusevich-6587421b6/)
++ **Phone:** +375 (25) 7159806
++ **E-mail:** mnastywav@gmail.com
++ **Telegram:** @nastassia_mav
++ [*LinkedIn*](https://www.linkedin.com/in/nastassia-matusevich-6587421b6/)
 
 -----
 
